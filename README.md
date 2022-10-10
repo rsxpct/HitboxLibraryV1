@@ -1,4 +1,4 @@
-A Multi-Support, Hitbox Library for your game!
+A Lightweight, Multi-Function, Hitbox Library for your game!
 
   Current Support:
     Spatial Query - Author: rsxpct
